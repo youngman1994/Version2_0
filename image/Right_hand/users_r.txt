@@ -1,0 +1,35 @@
+﻿�� man 23 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k4.jpg
+�аµ��� woman 26 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k4.jpg
+������ man 21 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\1_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\1_k4.jpg
+ͳһ man 25 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\2_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\2_k4.jpg
+YangYuanNan man 25 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\3_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\3_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\3_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\3_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\3_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\3_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\3_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\3_k4.jpg
+��Զ�� man 25 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\4_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\4_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\4_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\4_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\4_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\4_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\4_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\4_k4.jpg
+hjjg man 20 RightHand
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\5_h1.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\5_k1.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\5_h2.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\5_k2.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\5_h3.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\5_k3.jpg
+D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\H\5_h4.jpg#D:\ImagesProcess\PalmprintRecognition\laboratory\version1_0\pyqtѧϰ\GUI\Version2_0\image\Right_hand\K\5_k4.jpg
